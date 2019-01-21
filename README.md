@@ -1,2 +1,2 @@
 # first-repo
-This is master
+This is first slave
