@@ -1,2 +1,2 @@
 # first-repo
-need to know the changes
+This is master
